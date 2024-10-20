@@ -23,8 +23,7 @@
 ![Virtualización](./images/cap9.png)
 
 ## Capítulo 10
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se mejoró el código del redirect a post y además se añadio una exepción al cache para que su variable se mantenga por 1 hora y no se estén recargando cada vez que el usuario refresca la página.
 
 ## Capítulo 11
 - En este capítulo 
