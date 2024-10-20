@@ -19,8 +19,8 @@
 ![Virtualización](./images/cap8.png)
 
 ## Capítulo 9
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se añadió una excepción a la URI de los posts para que sólo se acepten letras y guíones, así evitando que un usuario incluya links extraños.
+![Virtualización](./images/cap9.png)
 
 ## Capítulo 10
 - En este capítulo 
