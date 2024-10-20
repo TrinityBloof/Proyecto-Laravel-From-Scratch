@@ -26,8 +26,8 @@
 - En este capítulo se mejoró el código del redirect a post y además se añadio una exepción al cache para que su variable se mantenga por 1 hora y no se estén recargando cada vez que el usuario refresca la página.
 
 ## Capítulo 11
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se limpio aún más el código que teníamos haciendolo declarado y más sencillo de enternder, además se añadió una nueva función para cargar todos los posts que estén en la carpeta permitente de forma dinámica. Y por último se hizo una introducción a la metadata.
+![Virtualización](./images/cap11.png)
 
 ## Capítulo 12
 - En este capítulo 
