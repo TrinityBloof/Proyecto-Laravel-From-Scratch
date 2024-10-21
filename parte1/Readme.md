@@ -43,8 +43,8 @@
 - En este capítulo vimos los blade layouts que básicamente permite crear layouts con información que podemos utilizar mucho durante la vida de un proyecto para evitar tener que escribirla varias veces y solo tener que reutilizarla de forma más eficaz. Además de los blade components que son layouts pero aún más fáciles de cargar.
 
 ## Capítulo 16
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se volvió a añadir el exeption para validar que el uri sea correcto y si no dar un 404
+![Virtualización](./images/cap16.png)
 
 ## Capítulo 17
 - En este capítulo 
