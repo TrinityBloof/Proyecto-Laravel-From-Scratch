@@ -58,8 +58,9 @@
 ![Virtualización](./images/cap19.png)
 
 ## Capítulo 20
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se borró los models y post que teníamos anteriormente para crearlos de 0 pero está vez de forma más dinámica utilizando bases de datos para almacenarlos.
+![Virtualización](./images/cap20-1.png)
+![Virtualización](./images/cap20-2.png)
 
 ## Capítulo 21
 - En este capítulo 
