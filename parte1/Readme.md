@@ -54,8 +54,8 @@
 - En este capítulo sólo se dió información sobre cómo funcionan los migrations y cómo podemos modificar las tablas que crea el mismo.
 
 ## Capítulo 19
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo vimos porqué las tablas en la base de datos son elocuent y muchas de las funciones que podemos usar para trabajar con los usuario de nuestra base de datos.
+![Virtualización](./images/cap19.png)
 
 ## Capítulo 20
 - En este capítulo 
