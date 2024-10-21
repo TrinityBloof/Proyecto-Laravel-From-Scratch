@@ -47,8 +47,8 @@
 ![Virtualización](./images/cap16.png)
 
 ## Capítulo 17
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo sólo se configura el .env y se explica un poco cómo funciona este archivo, se configura con la DB que se utilizará y se instala un gestor de DB para poder utilizarla más fácil
+![Virtualización](./images/cap17.png)
 
 ## Capítulo 18
 - En este capítulo 
