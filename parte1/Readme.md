@@ -34,8 +34,7 @@
 ![Virtualización](./images/cap12.png)
 
 ## Capítulo 13
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo final de lo básico se añadio un ordenamiento a los post y una forma de mantener la cache para siempre en el método All, la cuál no es tan conveniente.
 
 ## Capítulo 14
 - En este capítulo 
