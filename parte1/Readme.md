@@ -70,8 +70,8 @@
 - En este capítulo se vieron 3 formas diferentes para mitigar vulnerabilidades usando el protect en la base de datos.
 
 ## Capítulo 23
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se volvió a añadir que los uri funcionen mediante un slag y no el id. Por lo tanto se añadio el slag al migrate de la base de datos.
+![Virtualización](./images/cap23.png)
 
 ## Capítulo 24
 - En este capítulo 
