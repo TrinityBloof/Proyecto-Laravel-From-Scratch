@@ -40,8 +40,7 @@
 - En este capítulo se visualiza el poder de Blade y dan explicaciones del porqué es ciertamente más útil incluirlo en nuestro proyecto que usar php puro ya que nos facilita mucho el código que utilizamos y tenemos más alternativas.
 
 ## Capítulo 15
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo vimos los blade layouts que básicamente permite crear layouts con información que podemos utilizar mucho durante la vida de un proyecto para evitar tener que escribirla varias veces y solo tener que reutilizarla de forma más eficaz. Además de los blade components que son layouts pero aún más fáciles de cargar.
 
 ## Capítulo 16
 - En este capítulo 
