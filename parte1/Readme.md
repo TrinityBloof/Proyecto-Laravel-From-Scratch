@@ -63,8 +63,8 @@
 ![Virtualización](./images/cap20-2.png)
 
 ## Capítulo 21
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se vió cómo poder añadir y evitar la inclución de código html dentro de nuestra base de datos
+![Virtualización](./images/cap21.png)
 
 ## Capítulo 22
 - En este capítulo 
