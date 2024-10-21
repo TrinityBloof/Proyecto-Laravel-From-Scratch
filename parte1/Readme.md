@@ -67,8 +67,7 @@
 ![Virtualización](./images/cap21.png)
 
 ## Capítulo 22
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se vieron 3 formas diferentes para mitigar vulnerabilidades usando el protect en la base de datos.
 
 ## Capítulo 23
 - En este capítulo 
