@@ -51,8 +51,7 @@
 ![Virtualización](./images/cap17.png)
 
 ## Capítulo 18
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo sólo se dió información sobre cómo funcionan los migrations y cómo podemos modificar las tablas que crea el mismo.
 
 ## Capítulo 19
 - En este capítulo 
