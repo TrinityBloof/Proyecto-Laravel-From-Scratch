@@ -30,8 +30,8 @@
 ![Virtualización](./images/cap11.png)
 
 ## Capítulo 12
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se hizo usó completo de la metadata haciendo que los documentos tengan información útil para mostrar cada uno de los post de forma eficiente y de forma totalmente dinámica.
+![Virtualización](./images/cap12.png)
 
 ## Capítulo 13
 - En este capítulo 
