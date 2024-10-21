@@ -37,8 +37,7 @@
 - En este capítulo final de lo básico se añadio un ordenamiento a los post y una forma de mantener la cache para siempre en el método All, la cuál no es tan conveniente.
 
 ## Capítulo 14
-- En este capítulo 
-![Virtualización](./images/final.png)
+- En este capítulo se visualiza el poder de Blade y dan explicaciones del porqué es ciertamente más útil incluirlo en nuestro proyecto que usar php puro ya que nos facilita mucho el código que utilizamos y tenemos más alternativas.
 
 ## Capítulo 15
 - En este capítulo 
